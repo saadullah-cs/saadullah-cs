@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Saad Ullah 👋</h1>
-<h3 align="center">Founder @ NexGen Builds | Data Analyst & Automation Engineer</h3>
+<h3 align="center">Founder @ NexGen Builds | Data Scientist & Automation Engineer</h3>
 
 <div align="center">
   <a href="mailto:hello@nexgenbuilds.tech"><img src="https://img.shields.io/badge/Email-hello%40nexgenbuilds.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
